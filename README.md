@@ -1,1 +1,1 @@
-signed tag with PGP
+signed commit with SSH
