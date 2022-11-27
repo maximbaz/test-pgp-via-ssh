@@ -1,1 +1,1 @@
-signed commit with PGP
+signed tag with PGP
